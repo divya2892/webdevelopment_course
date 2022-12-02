@@ -1,0 +1,17 @@
+Steps to send code to Git From VS code editor: 
+
+1. click on source control option
+
+2. type commit message on textbox 
+
+3. click on commit 
+
+4. click on 3 dots 
+
+5. click on push 
+
+pull : 
+
+click on 3 dots 
+
+click on pull
